@@ -1,4 +1,4 @@
-# FOGO: Forgetting-aware Orthogonalization Optimizer
+# FOGO: Forgetting-aware Orthogonalization Optimizer (NeurIPS'26)
 
 Official PyTorch implementation of **FOGO** (NeurIPS 2026), a continual-learning
 optimizer that treats forgetting as a general optimization phenomenon rather
